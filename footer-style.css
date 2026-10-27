@@ -1,0 +1,36 @@
+//10. Footer
+footer {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+footer ul {
+    margin: 1rem;
+    list-style: none;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+footer ul a {
+    text-decoration: none;
+}
+
+h1.display-1 {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 700 !important;
+}
+
+.artcopy {
+    font-size: smaller;
+    color: #5d6272;
+    text-align: center;
+}
+
+ul.foot-list {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+svg {
+    padding-right: 10px;
+}
